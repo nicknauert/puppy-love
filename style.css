@@ -118,3 +118,26 @@ thead>tr>td {
 td>img {
   width: 50px;
 }
+
+form {
+  background-color: #dddddd;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.name {
+  background-color: #ff8523;
+  border-radius: 5px;
+  padding: 20px 5px;
+  margin-bottom: 25px;
+}
+
+.name>label {
+  color: white;
+  margin-left: 10px;
+}
+
+.name>input {
+  width: 225px;
+  height: 35px;
+}
